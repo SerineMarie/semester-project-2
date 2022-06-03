@@ -1,22 +1,21 @@
 # Semester Project 2
 
-A simple overview of the use/purpose of the project
+This project was done to show what we have learned during our third semester. We were to create an e-commerce website with both customer-facing and admin sections. We were given an Strapi API to fetch our content from.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+This page is not fully working, as there are mistakes made in javascript.
 
-You can add some bullet points if you'd like to
-
-- list item
-- list item
-- list item
-- list item
-- list item
+- Strapi API call
+- Using local storage
+- Create and use components
+- Dynamic navigation bar
+- Upload to Strapi
+- Using SASS
 
 ## Bulit with
 
-- Regular HTML, JavaScript and CSS
+- Regular HTML, JavaScript and SASS
 
 ## Getting started
 
@@ -24,6 +23,14 @@ You can add some bullet points if you'd like to
 
 1. Clone the repo:
    `gh repo clone SerineMarie/semester_project02`
+
+2. Install the dependencies:
+   `npm install`
+
+### Running
+
+To run the app, run the following command:
+`npm run develop`
 
 ## Contributing
 
@@ -33,7 +40,3 @@ Here you can detail any information you want to provide regarding contributing t
 
 - @serinejor on Instagram
 - [LinkedIn page](https://www.linkedin.com/in/serine-jorgensen-0742581b5/)
-
-## Acknowledgments
-
-This is where you can add any acknowledgments if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgments to make.
